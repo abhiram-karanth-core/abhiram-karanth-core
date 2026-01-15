@@ -96,7 +96,8 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/abhiram-karanth-core/abhiram-karanth-core/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/abhiram-karanth-core/abhiram-karanth-core/output/github-contribution-grid-snake.svg)
+
 
 ---
 
