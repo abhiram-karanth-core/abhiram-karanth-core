@@ -8,7 +8,6 @@
 ---
 
 ## 🌐 Connect With Me
-
 <p align="left">
   <a href="https://github.com/abhiram-karanth-core">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
@@ -18,6 +17,9 @@
   </a>
   <a href="https://www.linkedin.com/in/d-abhiram-karanth-508220330/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://leetcode.com/u/Deshamangala_Abhiram_Karanth/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
