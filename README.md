@@ -8,25 +8,16 @@
 
 ---
 
-## 🚀 The Philosophy
-I build software designed to **run continuously, scale predictably, and fail gracefully.** My work sits at the intersection of high-performance backend architecture and intelligent AI-backed infrastructure.
-
-- **Real-time:** WebRTC, WebSockets, and Event-Driven Mesh.
-- **Distributed:** Messaging via Kafka & Redis.
-- **Intelligence:** RAG pipelines, Vector Search, and LLM Agents.
-
----
-
 ## 🛠️ Engineering Stack
 
 ### **Core Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,python,java,ts,js,cpp,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,python,java,ts,js,c&theme=dark" />
 </p>
 
 ### **Infrastructure & Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kafka,redis,postgres,mongodb,mysql,flask,django,nodejs,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kafka,redis,postgres,mongodb,mysql,php,flask,django,nodejs,linux&theme=dark" />
 </p>
 
 ### **AI & Frontend**
