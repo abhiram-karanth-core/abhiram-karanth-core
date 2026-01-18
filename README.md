@@ -17,7 +17,7 @@
 
 ### **Infrastructure & Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kafka,redis,postgres,mongodb,mysql,php,flask,django,nodejs,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kafka,redis,postgres,mongodb,mysql,php,flask,django,express,nodejs,linux&theme=dark" />
 </p>
 
 ### **AI & Frontend**
